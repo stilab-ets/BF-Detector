@@ -20,7 +20,7 @@ Then you can use this tool based on a cross-project prediction, for example :
 ```
 java -jar BF-Detector.jar https://github.com/mitchellh/vagrant d95dad9a79af220d11de7c91c61b456b819b8f27 T
 ```
-# The CI metrics used in GP-CI-BUILD
+# The used CI metrics
  The table bellow lists the build metrics used to generate our prediction rules.
  
 |Metric|Description|
