@@ -1,6 +1,6 @@
 # General info
-GP-CI-BUILD is a powerful tool written in Java that can detect Travis CI failed builds based on the history of the project.
-For a detailed description of the tool and its associated research work, you can refer to the following research papers *GP-CI-Build: A Tool for CI build Failures Detection* and *Predicting Continuous Integration Build Failures Using Evolutionary Search*
+BF-Detector is a powerful tool written in Java that can detect Travis CI failed builds based on the history of the project.
+For a detailed description of the tool and its associated research work, you can refer to the following research papers *On the Prediction of Continuous Integration Build FailuresUsing Search-Based Software Engineering* and *Predicting Continuous Integration Build Failures Using Evolutionary Search*
 # How to use it ?
 This tool needs a Github project that uses Travis CI to work. We recommend to launch it with Java 10. 
 1. the Graphviz visualization tool should be downloaded from https://graphviz.org/download/#windows and saved under *C:/Program Files/*
@@ -13,5 +13,5 @@ This tool needs a Github project that uses Travis CI to work. We recommend to la
 # Example of usage
 Then you can use this tool based on a cross-project prediction, for example :
 ```
-java -jar gp-ci-build.jar https://github.com/mitchellh/vagrant d95dad9a79af220d11de7c91c61b456b819b8f27 T
+java -jar BF-Detector.jar https://github.com/mitchellh/vagrant d95dad9a79af220d11de7c91c61b456b819b8f27 T
 ```
