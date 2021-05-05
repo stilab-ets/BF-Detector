@@ -1,6 +1,11 @@
 # General info
 BF-Detector is a powerful tool written in Java that can detect Travis CI failed builds based on the history of the project.
 For a detailed description of the tool and its associated research work, you can refer to the following research papers *On the Prediction of Continuous Integration Build FailuresUsing Search-Based Software Engineering* and *Predicting Continuous Integration Build Failures Using Evolutionary Search*
+
+A demonstration video is available at: 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/djMoAfjdolI/0.jpg)](https://www.youtube.com/watch?v=djMoAfjdolI&ab_channel=IslemSaidani)
+
 # How to use it ?
 This tool needs a Github project that uses Travis CI to work. We recommend to launch it with Java 10. 
 1. the Graphviz visualization tool should be downloaded from https://graphviz.org/download/#windows and saved under *C:/Program Files/*
