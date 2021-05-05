@@ -19,7 +19,7 @@ java -jar BF-Detector.jar https://github.com/mitchellh/vagrant d95dad9a79af220d1
  The table bellow lists the build metrics used to generate our prediction rules.
  
 |Metric|Description|
-|:---------:|--------|
+|--------|--------|
 |NC|# of commits contained in this single build|
 |ND|# of changed directories|
 |NS|# of changed systems|
