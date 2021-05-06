@@ -4,7 +4,7 @@ For a detailed description of the tool and its associated research work, you can
 
 A demonstration video is available at: 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/djMoAfjdolI/0.jpg)](https://www.youtube.com/watch?v=djMoAfjdolI&ab_channel=IslemSaidani)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E9HPErvT3Sw/0.jpg)](https://www.youtube.com/watch?v=E9HPErvT3Sw&ab_channel=IslemSaidani)
 
 # How to use it ?
 This tool needs a Github project that uses Travis CI to work. We recommend to launch it with Java 10. 
