@@ -1,0 +1,10 @@
+digraph G {
+	graph [bb="0,0,256.08,36",
+		dpi=78
+	];
+	node [label="\N"];
+	1	 [height=0.5,
+		label="comm_fail_rate_history >= 0.22",
+		pos="128.04,18",
+		width=3.5566];
+}
