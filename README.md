@@ -7,7 +7,7 @@ A demonstration video is available at:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E9HPErvT3Sw/0.jpg)](https://www.youtube.com/watch?v=E9HPErvT3Sw&ab_channel=IslemSaidani)
 
 # How to use it ?
-First, you need to download the jar file from this link https://github.com/stilab-ets/BF-Detector/blob/main/BF-Detector.jar. Do NOT download it from ZIP (button code) because it will be corrupted and cannot be used.
+First, you need to download the jar file from this link https://github.com/stilab-ets/BF-Detector/blob/main/BF-Detector.jar. Do NOT download it from ZIP (the code button above) because it will be corrupted and cannot be used.
  
 This tool needs a Github project that uses Travis CI to work. We recommend to launch it with Java 10. 
 1. the Graphviz visualization tool should be downloaded from https://graphviz.org/download/#windows and saved under *C:/Program Files/*
