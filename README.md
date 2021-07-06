@@ -59,3 +59,16 @@ java -jar BF-Detector.jar https://github.com/mitchellh/vagrant d95dad9a79af220d1
 |comm_fail_rate_recent|Similar to committer history, but measuring only his last five builds |
 |prev_build_result|Result of last build|
 |day_week|Day of week of the first commit for the build|
+
+# How to cite?
+
+Please, use the following bibtex entry:
+
+```tex
+@article{saidaniBFDetector2021,
+    title={BF-Detector: An Automated Tool for CI Build Failure Detection},
+    author={Saidani, Islem and Ouni, Ali and Chouchen, Moataz and Mkaouer, Mohamed Wiem},
+    conference={ESEC/FSE},
+    year={2021},
+}
+```
