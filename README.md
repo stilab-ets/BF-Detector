@@ -7,6 +7,8 @@ A demonstration video is available at:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E9HPErvT3Sw/0.jpg)](https://www.youtube.com/watch?v=E9HPErvT3Sw&ab_channel=IslemSaidani)
 
 # How to use it ?
+First, you need to download the jar file from this link https://github.com/stilab-ets/BF-Detector/blob/main/BF-Detector.jar. Do NOT download it from ZIP (button code) because it will be corrupted and cannot be used.
+ 
 This tool needs a Github project that uses Travis CI to work. We recommend to launch it with Java 10. 
 1. the Graphviz visualization tool should be downloaded from https://graphviz.org/download/#windows and saved under *C:/Program Files/*
 2. To launch the analysis of a project, you have to define:
@@ -16,10 +18,11 @@ This tool needs a Github project that uses Travis CI to work. We recommend to la
 2. The tool displays the prediction in the command line console.
 3. To get more details, the user can have a look at the explanation (a PDF file)
 # Example of usage
-Then you can use this tool based on a cross-project prediction, for example :
+You can use this tool based on a cross-project prediction, for example :
 ```
 java -jar BF-Detector.jar https://github.com/mitchellh/vagrant d95dad9a79af220d11de7c91c61b456b819b8f27 T
 ```
+
 # The used CI metrics
  The table bellow lists the build metrics used to generate our prediction rules.
  
