@@ -62,7 +62,7 @@ java -jar BF-Detector.jar https://github.com/mitchellh/vagrant d95dad9a79af220d1
 
 # How to cite?
 
-Please, use the following bibtex entry:
+Please, use the following bibtex entries:
 
 ```tex
 @article{saidaniBFDetector2021,
