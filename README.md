@@ -71,4 +71,8 @@ Please, use the following bibtex entry:
     conference={ESEC/FSE},
     year={2021},
 }
+@article{saidanitoward,
+  title={Toward a Smell-aware Prediction Model for CI Build Failures},
+  author={Saidani, Islem and Ouni, Ali}
+}
 ```
