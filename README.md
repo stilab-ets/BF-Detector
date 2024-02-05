@@ -65,14 +65,20 @@ java -jar BF-Detector.jar https://github.com/mitchellh/vagrant d95dad9a79af220d1
 Please, use the following bibtex entries:
 
 ```tex
-@article{saidaniBFDetector2021,
-    title={BF-Detector: An Automated Tool for CI Build Failure Detection},
-    author={Saidani, Islem and Ouni, Ali and Chouchen, Moataz and Mkaouer, Mohamed Wiem},
-    conference={ESEC/FSE},
-    year={2021},
+@inproceedings{saidani2021bf,
+  title={BF-detector: an automated tool for CI build failure detection},
+  author={Saidani, Islem and Ouni, Ali and Chouchen, Moataz and Mkaouer, Mohamed Wiem},
+  booktitle={29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering},
+  pages={1530--1534},
+  year={2021}
 }
-@article{saidanitoward,
-  title={Toward a Smell-aware Prediction Model for CI Build Failures},
-  author={Saidani, Islem and Ouni, Ali}
+
+@article{saidani2021predicting,
+  title={Predicting Continuous Integration Build Failures Using Evolutionary Search},
+  author={Saidani, Islem and Ouni, Ali and Chouchen, Moataz and Mkaouer, Mohamed Wiem},
+  journal={Journal of Information and Software Technology},
+  volume={128},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
